@@ -11,3 +11,4 @@
 #Dependencies:
     - pymino
     - gtts
+    - dotenv
